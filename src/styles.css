@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    background-color: rgb(125, 96, 155);
+  }
+h1, h2{
+    border: 2px solid black;
+  }
+#content{
+  background-color: aqua;
+}
+#menu {
+  background-color: brown;
+}
+#contacts {
+  background-color: chocolate;
+}
+#content > div {
+  background-color: brown;
+}
